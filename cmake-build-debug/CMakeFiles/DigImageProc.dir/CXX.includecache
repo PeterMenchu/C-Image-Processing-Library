@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/peter/Documents/Peter's Programs/Cpp-Image-Processing-Library/ImgProc.cpp
+ImgProc.h
+/Users/peter/Documents/Peter's Programs/Cpp-Image-Processing-Library/ImgProc.h
+
+/Users/peter/Documents/Peter's Programs/Cpp-Image-Processing-Library/ImgProc.h
+cstdio
+-
+cstdlib
+-
+iostream
+-
+
+/Users/peter/Documents/Peter's Programs/Cpp-Image-Processing-Library/main.cpp
+iostream
+-
+ImgProc.h
+/Users/peter/Documents/Peter's Programs/Cpp-Image-Processing-Library/ImgProc.h
+
